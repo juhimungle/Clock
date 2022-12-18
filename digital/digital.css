@@ -181,8 +181,8 @@ body{
 @media only screen and (min-width: 200px) and (max-width: 950px) {
     
     *{
-    margin: 2px;
-     padding: 2px;
+    margin: 1px;
+   
     }
     
     body{
@@ -208,8 +208,8 @@ body{
         
         font-size: 35px;
         margin-top: 365x;
-        width: 420px;
-         height: 70px;
+        width: 450px;
+         height: 100px;
         
         /* overflow: hidden; */
         
