@@ -69,8 +69,8 @@ p{
     
 @media only screen and (min-width: 100px) and (max-width:850px) {
     *{
-    margin: 2px;
-    padding: 2px;
+    margin: 1px;
+    padding: 1px;
     }
     .container{
         width: 100%;
@@ -85,12 +85,12 @@ p{
     }
     .analog{
         float: left;
-        margin-left:2px;
+        margin-left:1px;
     }
     
     .digital{
         float: right;
-        margin-right: 2px;
+        margin-right: 1px;
         clear: both;
     }
     button{
